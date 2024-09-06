@@ -192,7 +192,6 @@ body {
 }
 
 #service .container .card:hover {
-    background-color: #fff;
     transform: scale(1.03);
     box-shadow: 6px 6px 4px #999;
 }
